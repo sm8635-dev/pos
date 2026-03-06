@@ -1,0 +1,23 @@
+{
+    "response": [
+        {
+            "datetime": "1776285390",
+            "filename": "PixelOS_peridot-16.2-20260415-1930.zip",
+            "id": "42cee6872c028fbf567f9b3356d1fb838b33da45b0cc8d5ed43bf468ede5a86e",
+            "size": 3962454749,
+            "url": "https://zenin1504.duckdns.org/peridot/pixelos/PixelOS_peridot-16.2-20260415-1930.zip",
+            "stream_url": "https://zenin1504.duckdns.org/peridot/pixelos/PixelOS_peridot-16.2-20260415-1930.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4615,
+                    "FILE_HASH": "oKl86Otx/kpQ1irKwC3594AUrIbz+OTRjbuVSL0hd/I=",
+                    "FILE_SIZE": "3962446702",
+                    "METADATA_HASH": "V9UvqWeWPJra1obAew9cCreBYgWcZ2QkZYWlGZ277ns=",
+                    "METADATA_SIZE": "169205"
+                }
+            ]
+        }
+    ]
+}
