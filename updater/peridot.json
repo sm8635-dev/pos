@@ -1,21 +1,20 @@
 {
     "response": [
         {
-            "datetime": "1776285390",
-            "filename": "PixelOS_peridot-16.2-20260415-1930.zip",
-            "id": "42cee6872c028fbf567f9b3356d1fb838b33da45b0cc8d5ed43bf468ede5a86e",
-            "size": 3962454749,
-            "url": "https://zenin1504.duckdns.org/peridot/pixelos/PixelOS_peridot-16.2-20260415-1930.zip",
-            "stream_url": "https://zenin1504.duckdns.org/peridot/pixelos/PixelOS_peridot-16.2-20260415-1930.zip",
+            "datetime": 1778488323,
+            "filename": "PixelOS_peridot-16.2-20260511-0833.zip",
+            "id": "a6bb8b58fc6e119f6d3a9eb01ba62e335ad3d14912be666ac177acbb552c6ce6",
+            "size": 3544959496,
+            "url": "https://zenin1504.dpdns.org/peridot/pixelos//PixelOS_peridot-16.2-20260511-0833.zip",
             "version": 16,
-            "stream": true,
+            "stream": false,
             "payload": [
                 {
-                    "offset": 4615,
-                    "FILE_HASH": "oKl86Otx/kpQ1irKwC3594AUrIbz+OTRjbuVSL0hd/I=",
-                    "FILE_SIZE": "3962446702",
-                    "METADATA_HASH": "V9UvqWeWPJra1obAew9cCreBYgWcZ2QkZYWlGZ277ns=",
-                    "METADATA_SIZE": "169205"
+                    "offset": 4624,
+                    "FILE_HASH": "D9Ms0Z7c3rRoVBZ63uuUQvA9oKRKUD6SsXheEU5sRp4",
+                    "FILE_SIZE": "3544951446",
+                    "METADATA_HASH": "B5ZB82s+j+8g+iuNPep2mcb5AZKGmgscOPDtrO2gmzg",
+                    "METADATA_SIZE": "218199"
                 }
             ]
         }
